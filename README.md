@@ -2,7 +2,7 @@
 
 I'm a passionate Front End  Developer specializing  with a strong foundation in Data Structures & Algorithms. I build scalable web applications, write clean and maintainable code, and enjoy solving real-world problems through tech. With hands-on experience in frontend development, I bring end-to-end solutions to life.
 
-# Plateform
+# Platform
 ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 ![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
