@@ -1,25 +1,51 @@
-# Hi, I'm Aman Sharma 
+# Hi 👋, I'm Aman Sharma
 
-I'm a passionate Front End  Developer specializing  with a strong foundation in Data Structures & Algorithms. I build scalable web applications, write clean and maintainable code, and enjoy solving real-world problems through tech. With hands-on experience in frontend development, I bring end-to-end solutions to life.
+🎓 Final Year B.Tech Computer Science Student
 
-# Platform
-![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
-![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
+💻 Aspiring Software Developer with a strong foundation in Data Structures & Algorithms, Python, JavaScript, SQL, and Web Development.
 
-    * 🧠 DSA Proficiency: Solved 200+ problems on platforms like LeetCode, HackerRank
-# Language 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+🚀 Passionate about building scalable applications, solving real-world problems, and continuously learning new technologies.
 
-# Frontend Developer
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+🔹 Solved 200+ DSA problems on LeetCode, HackerRank, and CodeChef.
 
-# Tools
-![Google Cloud](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
+🔹 Built projects including:
 
+* AI Virtual Assistant (Jarvis)
+* Tic Tac Toe Game
+* Rail Yatra Website
+* Smart Bank Analytics Dashboard
+* E-Commerce Backend System
+
+🔹 Interested in:
+
+* Software Development
+* Full Stack Development
+* Python Development
+* AI & Machine Learning
+* Data Engineering
+
+## Coding Profiles
+
+* LeetCode
+* HackerRank
+* CodeChef
+
+## Languages
+
+Python • Java • C++ • C • JavaScript • SQL
+
+## Technologies
+
+HTML • CSS • JavaScript • Django • Flask • REST APIs • MySQL • Git • GitHub
+
+## Tools
+
+VS Code • Jupyter Notebook • Postman • Canva • GitHub
+
+### Current Focus
+
+🌱 Learning Advanced DSA, System Design, AI Applications, and Full-Stack Development.
+
+📫 Reach me at: [sharmaman737696@gmail.com](mailto:sharmaman737696@gmail.com)
+
+🔗 LinkedIn: [www.linkedin.com/in/aman-sharma-4029b1250](http://www.linkedin.com/in/aman-sharma-4029b1250)
