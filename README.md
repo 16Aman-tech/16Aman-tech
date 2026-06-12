@@ -1,51 +1,75 @@
 # Hi 👋, I'm Aman Sharma
 
-🎓 Final Year B.Tech Computer Science Student
+🎓 Final Year B.Tech Computer Science Student from Kanpur, India
 
 💻 Aspiring Software Developer with a strong foundation in Data Structures & Algorithms, Python, JavaScript, SQL, and Web Development.
 
-🚀 Passionate about building scalable applications, solving real-world problems, and continuously learning new technologies.
+🚀 I enjoy building software solutions, exploring AI applications, and solving real-world problems through technology.
 
-🔹 Solved 200+ DSA problems on LeetCode, HackerRank, and CodeChef.
+---
 
-🔹 Built projects including:
+## 👨‍💻 About Me
 
-* AI Virtual Assistant (Jarvis)
-* Tic Tac Toe Game
-* Rail Yatra Website
-* Smart Bank Analytics Dashboard
-* E-Commerce Backend System
+- 🌱 Currently learning Advanced DSA, Full Stack Development, and AI Applications
+- 💡 Interested in Software Development, Python Development, AI/ML, and Data Engineering
+- 🧠 Solved 200+ DSA problems on LeetCode and HackerRank
+- 🔭 Working on AI-powered and Web Development projects
+- 📫 Reach me at: **sharmaman737696@gmail.com**
 
-🔹 Interested in:
+---
 
-* Software Development
-* Full Stack Development
-* Python Development
-* AI & Machine Learning
-* Data Engineering
+## 🚀 Projects
 
-## Coding Profiles
+### 🤖 AI Virtual Assistant (Jarvis)
+Built a Python-based AI assistant capable of voice commands, automation, web search, and system-level operations.
 
-* LeetCode
-* HackerRank
-* CodeChef
+### 🎮 Tic Tac Toe Game
+Interactive game developed using HTML, CSS, and JavaScript with winner detection and responsive UI.
 
-## Languages
+### 🚆 Rail Yatra Website
+Train information and booking interface with responsive design and dynamic functionality.
 
-Python • Java • C++ • C • JavaScript • SQL
+### 📊 Smart Bank Analytics Dashboard
+Analyzed customer and transaction data using Python, SQL, and Power BI to generate business insights.
 
-## Technologies
+### 🛒 E-Commerce Backend System
+Developed backend services using Django, REST APIs, authentication, and database management.
 
-HTML • CSS • JavaScript • Django • Flask • REST APIs • MySQL • Git • GitHub
+---
 
-## Tools
+## 🏆 Coding Profiles
 
-VS Code • Jupyter Notebook • Postman • Canva • GitHub
+- LeetCode
+- HackerRank
 
-### Current Focus
+---
 
-🌱 Learning Advanced DSA, System Design, AI Applications, and Full-Stack Development.
+## 💻 Languages
 
-📫 Reach me at: [sharmaman737696@gmail.com](mailto:sharmaman737696@gmail.com)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-🔗 LinkedIn: [www.linkedin.com/in/aman-sharma-4029b1250](http://www.linkedin.com/in/aman-sharma-4029b1250)
+---
+
+## 🌐 Web Technologies
+
+![My Skills](https://skillicons.dev/icons?i=html,css,js,django,flask,git,github,vscode)
+
+---
+
+## 📈 Problem Solving
+
+- ✅ 200+ DSA Problems Solved
+- ✅ Strong understanding of Arrays, Strings, Hashing, Sorting, Recursion, Linked Lists, Trees, and Dynamic Programming
+- ✅ Active learner and competitive programming enthusiast
+
+---
+
+## 🤝 Let's Connect
+
+- LinkedIn: www.linkedin.com/in/aman-sharma-4029b1250
+- Email: sharmaman737696@gmail.com
+
+⭐ Always open to internships, collaborations, and learning opportunities.
